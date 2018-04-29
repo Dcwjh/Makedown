@@ -2,7 +2,6 @@
  [MakeDown中文官方文档](https://markdown-zh.readthedocs.io/en/latest/)
 # Start learn makedown
 [TOC]
-`[TOC]`
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;一个段落是由一个以上的连接的行句组成，而一个以上的空行则会划分出不同的段落（空行的定义是显示上看起来像是空行，就被视为空行，例如有一行只有空白和 tab，那该行也会被视为空行），一般的段落不需要用空白或换行缩进。
