@@ -1,5 +1,5 @@
 # Makedown
- [MakeDown中文官方文档](https://markdown-zh.readthedocs.io/en/latest/)|[英文官方文档](https://daringfireball.net/projects/markdown/syntax#html)
+ [MakeDown中文官方文档](https://markdown-zh.readthedocs.io/en/latest/)&emsp;|&emsp;[英文官方文档](https://daringfireball.net/projects/markdown/syntax#html)
 # Start learn makedown
 [TOC]
 
