@@ -1,7 +1,5 @@
 # Makedown
- [MakeDown中文官方文档](https://markdown-zh.readthedocs.io/en/latest/)&emsp;|&emsp;[英文官方文档](https://daringfireball.net/projects/markdown/syntax#html)
- <br/>
- [个人文档](https://github.com/LearnShare/Learning-Markdown/tree/v2）
+ [MakeDown中文官方文档](https://markdown-zh.readthedocs.io/en/latest/)&emsp;|&emsp;[英文官方文档](https://daringfireball.net/projects/markdown/syntax#html)&emsp;|&emsp;[个人文档](https://github.com/LearnShare/Learning-Markdown/tree/v2)
 # Start learn makedown
 
 
